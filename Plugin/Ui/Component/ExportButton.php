@@ -19,6 +19,9 @@ class ExportButton
      * @param HelperData $helper
      * @param Http $request
      */
+    public $helper;
+    public $request;
+    
     public function __construct(
         HelperData $helper,
         Http $request
