@@ -1,5 +1,3 @@
----
-
 [![Latest Stable Version](https://poser.pugx.org/magenizr/magento2-conceal/v)](https://packagist.org/packages/magenizr/magento2-conceal) [![Total Downloads](https://poser.pugx.org/magenizr/magento2-conceal/downloads)](https://packagist.org/packages/magenizr/magento2-conceal) [![Latest Unstable Version](https://poser.pugx.org/magenizr/magento2-conceal/v/unstable)](https://packagist.org/packages/magenizr/magento2-conceal) [![License](https://poser.pugx.org/magenizr/magento2-conceal/license)](https://packagist.org/packages/magenizr/magento2-conceal) [![PHP Version Require](https://poser.pugx.org/magenizr/magento2-conceal/require/php)](https://packagist.org/packages/magenizr/magento2-conceal)
 
 # Conceal
