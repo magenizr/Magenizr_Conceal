@@ -1,4 +1,3 @@
-[![Magenizr Plus](https://images2.imgbox.com/11/6b/yVOOloaA_o.gif)](https://account.magenizr.com)
 ---
 
 [![Latest Stable Version](https://poser.pugx.org/magenizr/magento2-conceal/v)](https://packagist.org/packages/magenizr/magento2-conceal) [![Total Downloads](https://poser.pugx.org/magenizr/magento2-conceal/downloads)](https://packagist.org/packages/magenizr/magento2-conceal) [![Latest Unstable Version](https://poser.pugx.org/magenizr/magento2-conceal/v/unstable)](https://packagist.org/packages/magenizr/magento2-conceal) [![License](https://poser.pugx.org/magenizr/magento2-conceal/license)](https://packagist.org/packages/magenizr/magento2-conceal) [![PHP Version Require](https://poser.pugx.org/magenizr/magento2-conceal/require/php)](https://packagist.org/packages/magenizr/magento2-conceal)
@@ -11,7 +10,6 @@ Disable all customer export functions and mask personal information such as emai
 
 **Note**
 
-Get the Pro version [here](https://account.magenizr.com/product/magenizr-concealpro).
 
 ## System Requirements
 
@@ -58,7 +56,6 @@ php bin/magento module:enable Magenizr_Conceal --clear-static-content
 ## Features
 
 * Masking of address bits, emails and phone numbers in following grid tables:
-1. `Customers > All Customers` ( more grid tables supported in our [Pro version](https://account.magenizr.com/product/magenizr-concealpro) )
 * Disable export option in above grid tables
 * Disable customer export in `System > Data Transfer > Export`
 
